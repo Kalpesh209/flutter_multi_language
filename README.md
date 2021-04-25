@@ -12,7 +12,8 @@ flutter_multi_language Project has "main.dart" as Entry Point.
 - [Drop me your message](https://twitter.com/khandla20)
 
 
-https://user-images.githubusercontent.com/48312656/115976959-79257800-a51f-11eb-9769-015ff24b58fa.mp4
+
+https://user-images.githubusercontent.com/48312656/115984764-3e3e3700-a555-11eb-8398-9a021366b5ac.mp4
 
 
 = = = To Generate Android release steps = = =
